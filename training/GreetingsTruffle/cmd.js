@@ -1,0 +1,1 @@
+Greetings.deployed().then(function(instance){app = instance;})
